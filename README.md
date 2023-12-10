@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <h1 align="center">Spendwise</h1>
-
+  
   <p align="center">
     Your User-Friendly Expense Tracker Empowering Your Finances.
     <br/>
@@ -55,7 +55,7 @@ Spendwise is powered by a modern tech stack:
 
 **Firebase:** Real-time handling of the transactions of the users.
 
-This combination ensures a seamless and powerful expense tracking experience.
+This combination ensures a seamless and powerful expense tracking experience
 
 
 ## Getting Started
